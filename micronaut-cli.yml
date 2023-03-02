@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: ua.malysh
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jdbc, http-client, jackson-databind, java, java-application, jdbc-hikari, logback, lombok, management, maven, netty-server, openapi, postgres, problem-json, readme, shade, spock, testcontainers, yaml]

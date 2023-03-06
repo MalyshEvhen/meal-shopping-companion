@@ -14,3 +14,5 @@ out/
 .classpath
 .factorypath
 postgres-data/
+
+.vscode
